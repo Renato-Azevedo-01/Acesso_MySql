@@ -2,7 +2,7 @@
 
     $hostname = "localhost";
     $usuario = "root";
-    $senha = "Cocacola20133#";
+    $senha = "Sua senha";
     $bancodedados = "cadastro";
     
     $conexao = mysqli_connect($hostname, $usuario, $senha, $bancodedados); //temos que colocar o "i" no mysql(i)_connect
